@@ -1,0 +1,25 @@
+#radio1 {
+    vertical-align: bottom;
+}
+
+#body{
+    font-family: Tahoma, sans-serif;
+}
+
+.label{
+    font-size: 16pt;
+}
+
+#result{
+    text-align: center;
+    font-size: 18pt;
+}
+
+#signup_message{
+    text-align: center;
+}
+
+.navitem{
+    padding-left: 10px;
+    padding-right: 10px;
+}

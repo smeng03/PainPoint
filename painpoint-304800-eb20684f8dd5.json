@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "painpoint-304800",
+  "private_key_id": "eb20684f8dd5943665df2aac9a1b3221e1063d26",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC055HnXYYv19KO\n2RBhvw86zLURxRbisuGfQj53x9S+3d2v+G02Zq5GXqfqYMnJYuR3aBKw7sn1VTxH\n7iK62CU0NEnIXXVVgjwJZL8+YYkln+mmcbwAoQ1YzVzAbVu170AsFJrLd2IweTxa\n0HrnUHlc3cvrsKRLNSYygKcNBS+5+nGRvG48Swj/Ov+9CnNH+GgrAzLubeCiTGM/\nbJg2owKZwQmJG7CXJ1jFxImNI1CVOVHqfzwQdAJDoAgT5ljxL48C+8DoNuMOnqod\nc+6twGOW25OFaGO2jWt5xIWxmT77gl8sZm8NQalTLLfL3VR46ZkjYQWjdG+Q2ajB\nl95HPlTTAgMBAAECggEALpAWLWOUqNbXwt3bChW30U4kYv0EPXiGe0v9MS51s2T+\n7Q636ZM3UzSE6t5bweKa5KMcgH8N64AzYl5IgSgmN1AoF5L6ovZBBrfwQ5muR8ln\nxegrWEwb19oQABWF0AfTUCVDjJBfbROfdc6Ie+ZqPn12QeV2/EajXMdheAf4N1lw\nT91HTDgX79pCqSDKoT85We+RfUYuXjbk5DaN+eCOfSZvT8JvGd7BDG8tF0faY3NE\nkim8RyNn7AFaw/OdPDsHEKD1Z7Z2IfcvWDjkeOxUxqOQXc2vZK4mtHBPhDcAK74H\nryKudjbVnGeF9/Ok71FCvq6iHbC+ZjZCrUpXJvkzUQKBgQDrE/CdVRA1XX/43N+P\nyo9fJFnATaIWoYliNhYGv3+xOuvf/WD0qEPAG9LcVt9lQkbLHyym9L57UvhIbO47\nTZD0NzlZLw2ykYYL35JGyj/pUHhiSRYEqnn4aOOQCFILHVZsIKVeKEBl0hv8xK7W\nkPPgX+NzHcAERdMvMOi4+r6xYwKBgQDFAVWqrpYSQdoR0cQakkWwOE/m0dH6k3db\nSa21Chqb1kVI5Z1LW+T4lQ7j9AeRhZC1OhbRxP1JdHjAWm/3lF0L6NQ+ij7i2xfD\neGuNMk6uc4QxY7AmU/7RtBVi887q63Cy4s2dgPdm3HJoGRZ8GcfISi5on5j2x0Fg\nHSerIhNh0QKBgQDQAsHsBiQkhIrDpHYyX3QEJT9B2bAuxFuzytYsvHD6W3/yoNuV\nQftJV5V7IWflywKno/s39ONEbwOB2tnnIdi9MMyPLQK62ug5Q2jFORvakTklBzTz\nhgINnIqYnbQzX49keHK74XQyZPwc69ElzffuuAqkh1OstDiNzoJvhHkOrwKBgDmW\nE0mKMRnzH+B3lcBCo5ZIT6rkCGIbuxb3KYyzAGYvMx+E5v7BROQZBjpB+fhit5MS\nANuenn9bSXTIutP/DVfO3kPNu2Yqrv6Xc7DZVMCPycN6JWJ+yQzZfCrpo8Ftwwq3\nW20/5pGtvM+LDdSG4Kw+auRwSpFQW17SBudyVYIRAoGAMzy/pu8hIrR+J/RvgJ3t\nu53Cuo3QHSnmGB/HWDJpQZiOA2BHjvjv+FMpVsftJMnbIyzTS8xA6xemiQ85v8r+\nzBfllMg4hjzYly0LtHvIMrr2hWk5teG3iYKMB5D0+NVd0nfAjIfKm/uV4PNv/4OW\nKrC3VA/uspiXtoj4hNbxhXM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "paintpoint@painpoint-304800.iam.gserviceaccount.com",
+  "client_id": "108656072039225447656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/paintpoint%40painpoint-304800.iam.gserviceaccount.com"
+}
